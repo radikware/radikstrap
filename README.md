@@ -1,9 +1,3 @@
-> [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not owned by us.
-
-> [!IMPORTANT]
-> Bloxstrap is not under active development anymore. Any issues or pull requests opened may take a while to get a response.
-
 <p align="center">
     <img src="https://github.com/radikware/radikstrap/blob/main/Untitled_2.png" width="380">
 </p>
