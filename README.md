@@ -5,8 +5,10 @@
 > Bloxstrap is not under active development anymore. Any issues or pull requests opened may take a while to get a response.
 
 <p align="center">
-    <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="380">
-    <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="380">
+    <img src="https://github.com/radikware/radikstrap/blob/main/Untitled_2.png" width="380">
+</p>
+<p align="center">
+    radikstrap is a fork of <a href="https://github.com/bloxstraplabs/bloxstrap"><strong>Bloxstrap</strong></a> focused on additional features like performance, customization.
 </p>
 
 <div align="center">
