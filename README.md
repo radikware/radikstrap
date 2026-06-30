@@ -27,7 +27,7 @@ Radikstrap is only supported for PCs running Windows.
 
 **Q: Can using this get me banned?**
 
-**A:** No, it shouldn't. Bloxstrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://bloxstraplabs.com/wiki/info/bloxstrap-and-bans)
+**A:** No, it shouldn't. Radikstrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://bloxstraplabs.com/wiki/info/bloxstrap-and-bans)
 ## Features
 
 - Hassle-free Discord Rich Presence to let your friends know what you're playing at a glance
